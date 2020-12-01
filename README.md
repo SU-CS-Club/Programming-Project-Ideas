@@ -11,9 +11,9 @@ To get started, simply fork this repo.
 
 You can contribute **solutions** to existing problems, **add new projects** or edit existing ones.
 
-## [Solutions](https://github.com/SU-CS-Club/Programming-Project-Ideas/Solutions)
+## [Solutions](https://github.com/SU-CS-Club/Programming-Project-Ideas/tree/main/Solutions)
 
-You can put the implementations of these solutions in any language in [this repo](https://github.com/SU-CS-Club/Programming-Project-Ideas/Solutions).
+You can put the implementations of these solutions in any language in [this repo](https://github.com/SU-CS-Club/Programming-Project-Ideas/tree/main/Solutions).
 
 ## Credits
 

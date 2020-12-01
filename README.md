@@ -9,7 +9,7 @@ To get started, simply fork this repo.
 
 ## Contributing
 
-You can contribute **solutions** to existing problems, **add new projects** or edit existing ones.
+**Anyone** can contribute **solutions** to existing problems, **add new projects** or edit existing ones.
 
 ## [Solutions](https://github.com/SU-CS-Club/Programming-Project-Ideas/tree/main/Solutions)
 

@@ -97,6 +97,8 @@ This template was based off of [Karan Goel](http://twitter.com/karangoel)'s [ver
 
 **CAPTCHA maker**
 
+**Base 64 Encoder/Decoder**
+
 ## Miscellaneous
 
 **To-Do List**
